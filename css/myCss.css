@@ -1,0 +1,20 @@
+
+/*HTML元素*/
+body{
+    font-size: 0.75rem;
+}
+/*CLASS*/
+.req-cls{
+    background-color: #b5d9dc;
+}
+/*ID*/
+#hate{
+    color: coral;
+}
+a{
+    color: aquamarine;
+    text-decoration: #b5d9dc;
+}
+div> div>a{
+    color: cyan;
+}
